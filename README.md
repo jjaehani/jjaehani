@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JJANI's+Github!&fontSize=90" />
+
 
 <a href="https://woodangtangjjani.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
@@ -9,3 +11,7 @@ skills
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjaehani)](https://solved.ac/jjaehani)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaehani&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=jjaehani&show_icons=true">
+</div>

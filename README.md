@@ -18,6 +18,4 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjaehani)](https://solved.ac/jjaehani)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaehani&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=jjaehani&show_icons=true">
 </div>

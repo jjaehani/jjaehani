@@ -1,15 +1,9 @@
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" width="100%" alt="이재환 | AX · 업무 분석 · LLM · Cloud. 현장 업무를 분석해 AI를 쓸 곳을 정하고, 클라우드에 올려 실제로 돌아가게 만듭니다.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
+  <img src="assets/hello-light.svg" width="100%" alt="안녕하세요, 이재환입니다. 현장 업무를 분석해 AI를 쓸 곳을 정합니다 / 카카오톡 고장 접수를 LLM으로 다시 풀고 있습니다 / AWS에 올리고, 배포 뒤 장애까지 따라갑니다">
 </picture>
 
-<br><br>
-
-<p><a href="mailto:jjaehani@kakao.com"><img src="https://img.shields.io/badge/Email-jjaehani@kakao.com-2340B0?style=flat-square&logo=kakaotalk&logoColor=white" alt="Email"></a>&nbsp;<a href="./포트폴리오_이재환.pdf"><img src="https://img.shields.io/badge/Portfolio-PDF-1C2029?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Portfolio PDF"></a>&nbsp;<img src="https://img.shields.io/badge/KT_AIVLE_School-빅프로젝트_우수상-2340B0?style=flat-square" alt="KT AIVLE School 빅프로젝트 우수상"></p>
-
-</div>
+<p align="left"><a href="mailto:jjaehani@kakao.com"><img src="https://img.shields.io/badge/Email-jjaehani@kakao.com-2340B0?style=flat-square&logo=kakaotalk&logoColor=white" alt="Email"></a>&nbsp;<a href="./포트폴리오_이재환.pdf"><img src="https://img.shields.io/badge/Portfolio-PDF-1C2029?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Portfolio PDF"></a>&nbsp;<img src="https://img.shields.io/badge/KT_AIVLE_School-빅프로젝트_우수상-2340B0?style=flat-square" alt="KT AIVLE School 빅프로젝트 우수상"></p>
 
 <br>
 

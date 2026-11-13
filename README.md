@@ -1,14 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg">
-    <img src="assets/identity-light.svg" width="404" alt="이재환. 현장 업무를 분석해 AI를 쓸 곳을 정하고, 클라우드에 올려 실제로 돌아가게 만듭니다. KT AIVLE School 빅프로젝트 우수상(6인 팀), 인턴 3회, 배재대학교 사이버보안학과 졸업.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
+    <img src="assets/hello-light.svg" width="100%" alt="안녕하세요, 이재환입니다. 현장 업무를 분석해 AI를 쓸 곳을 정합니다 / 카카오톡 고장 접수를 LLM으로 다시 풀고 있습니다 / AWS에 올리고, 배포 뒤 장애까지 따라갑니다">
   </picture>
-  <a href="https://github.com/jjaehani/llm-fault-intake">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.svg">
-      <img src="assets/demo-light.svg" width="404" alt="LLM 고장 접수 챗봇 시연. 접수자가 '인버터 Oc 알람 떴어요'라고 보내면 장비(인버터), 증상(과전류 트립), 증상 분류(INV-ALM-01)를 뽑고, 발생 시점과 작업 상태는 되물어 받은 뒤, 긴급도는 규칙으로 정해 접수 초안을 채웁니다. 확정은 담당자가 합니다.">
-    </picture>
-  </a>
 </p>
 
 <p align="center">
@@ -43,6 +37,17 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/llm-dark.svg">
       <img src="assets/llm-light.svg" width="404" alt="LLM 고장 접수 챗봇. 개인 프로젝트, 2026. 카카오톡에 평소 말투로 증상을 보내면 LLM이 접수 항목을 뽑고, 빠진 것은 되묻습니다. 2023년 인턴 때 다룬 고장 접수 문제를 다시 풀었습니다. 요구사항, 대화 흐름, 분류표, 채점까지 혼자 설계하고 구현. 카카오 5초 제한에 맞춰 LLM 호출을 4초에서 끊고 대화는 보존. 모르는 정보는 짐작하지 않고 되묻거나 비워 둠. 카카오 i 오픈빌더, FastAPI, Gemini API, Python.">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/llm-dark.png">
+      <img src="assets/llm-light.png" width="100%">
+    </picture>
+  </a>
+  
+<p align="center">
+  <a href="https://github.com/jjaehani/llm-fault-intake">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/demo-dark.svg">
+      <img src="assets/demo-light.svg" width="404" alt="LLM 고장 접수 챗봇 시연. 접수자가 '인버터 Oc 알람 떴어요'라고 보내면 장비(인버터), 증상(과전류 트립), 증상 분류(INV-ALM-01)를 뽑고, 발생 시점과 작업 상태는 되물어 받은 뒤, 긴급도는 규칙으로 정해 접수 초안을 채웁니다. 확정은 담당자가 합니다.">
     </picture>
   </a>
   <a href="https://github.com/jjaehani/llm-fault-intake/blob/main/docs/evaluation.md">
@@ -98,15 +103,4 @@
 
 <p align="center">
   <sub>회사 문서라 원본은 올리지 않았습니다.<br>분석과 설계 과정은 <a href="Portfolio_LeeJaehwan.pdf">포트폴리오 PDF</a> 14~20쪽에 있습니다.</sub>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
-    <img src="assets/about-light.svg" width="404" alt="AI와 일하는 방식. 맡기는 것과 확인하는 것을 나눕니다. AI에 맡긴 것: 처음 보는 코드의 모듈 구조 정리, 작업량 비교 초안. 직접 정한 것: 구현 범위와 우선순위, 3D 야드를 2D 지도로 바꾼 결정. 직접 확인한 것: 실행 화면, 로그, 채점 결과. 어긋난 지도는 15개 시설 경계를 직접 따서 고쳤습니다. LLM 결과는 초안으로 두고, 틀렸을 때 누가 고치는지부터 정합니다.">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/career-dark.svg">
-    <img src="assets/career-light.svg" width="404" alt="경력과 교육. 2026.03~09 KT AIVLE School AI 트랙(840시간, 클라우드와 디지털 트윈, 빅프로젝트 우수상). 2023.07~08 엔지니어스톡 인턴(고장 접수 업무 분석, 챗봇 설계 문서). 2023.01~02 충남정보문화산업진흥원 인턴(DB 설계, 약 6,000만 건 이관과 검증). 2022.09~12 아이와즈 인턴(웹하드 침해 조사, Selenium 크롤러, 데이터 태깅). 2020.03~2024.02 배재대학교 사이버보안학과, DSC 공유대학 모빌리티 SW/AI 융합전공.">
-  </picture>
 </p>

@@ -18,28 +18,24 @@
       <img src="assets/btn-email-light.svg" height="36" alt="Email">
     </picture>
   </a>
-  <!-- Resume_LeeJaehwan.pdf를 이 저장소 맨 위 폴더에 올린 다음, 이 줄과 아래 닫는 줄을 지우면 버튼이 나타납니다.
   <a href="Resume_LeeJaehwan.pdf">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-resume-dark.svg">
       <img src="assets/btn-resume-light.svg" height="36" alt="Resume PDF">
     </picture>
   </a>
-  여기까지 -->
   <a href="Portfolio_LeeJaehwan.pdf">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg">
       <img src="assets/btn-portfolio-light.svg" height="36" alt="Portfolio PDF">
     </picture>
   </a>
-  <!-- CV_LeeJaehwan.pdf를 이 저장소 맨 위 폴더에 올린 다음, 이 줄과 아래 닫는 줄을 지우면 버튼이 나타납니다.
   <a href="CV_LeeJaehwan.pdf">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/btn-cv-dark.svg">
       <img src="assets/btn-cv-light.svg" height="36" alt="CV PDF">
     </picture>
   </a>
-  여기까지 -->
 </p>
 
 <p align="center">
